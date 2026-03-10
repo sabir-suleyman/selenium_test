@@ -87,6 +87,10 @@ Checkout : PASS (4.68s)
 Finish : PASS (1.12s)
 ```
 
+<p align="center">
+  <img src="Figure_1.png" width="700">
+</p>
+
 ## Performance Rule
 
 A simple threshold rule is used:
@@ -128,4 +132,3 @@ Bursa Uludağ University <br />
 
 ---
 
-/*![Performance Graph](performance_graph.png)*/
